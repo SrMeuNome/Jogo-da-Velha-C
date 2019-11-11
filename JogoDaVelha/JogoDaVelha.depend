@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1514136974 source:c:\users\professor\downloads\trabalhomatheus\jogodavelha\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1561575877 source:c:\users\professor\downloads\trabalhomatheus\estado.c
+	<stdio.h>
+	<stdlib.h>
+	"Estado.h"
+
+1561574522 c:\users\professor\downloads\trabalhomatheus\estado.h
+
+1561780613 source:c:\users\srmeunome\downloads\trabalhomatheus\estado.c
+	<stdio.h>
+	<stdlib.h>
+	"Estado.h"
+
+1561775007 c:\users\srmeunome\downloads\trabalhomatheus\estado.h
+
+1561781802 source:c:\users\srmeunome\downloads\trabalhomatheus\jogodavelha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../Jogo.h"
+
+1561780692 source:c:\users\srmeunome\downloads\trabalhomatheus\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Jogo.h"
+
+1561769328 c:\users\srmeunome\downloads\trabalhomatheus\jogo.h
+	"Estado.h"
+
+1561765948 c:\users\srmeunome\downloads\trabalhomatheus\estado.c
+	<stdio.h>
+	<stdlib.h>
+	"Estado.h"
+
